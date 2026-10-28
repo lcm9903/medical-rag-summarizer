@@ -1,0 +1,22 @@
+# 핵심
+pydantic>=2.6
+numpy>=1.26
+scikit-learn>=1.4
+
+# LangChain / LangGraph
+langchain-core>=0.3
+langchain-community>=0.3
+langgraph>=0.2
+langchain-openai>=0.2      # LLM_PROVIDER=openai
+langchain-ollama>=0.2      # LLM_PROVIDER=ollama
+langchain-huggingface>=0.1 # RETRIEVER=faiss
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+
+# API
+fastapi>=0.110
+uvicorn>=0.29
+
+# 테스트
+pytest>=8.0
+httpx>=0.27

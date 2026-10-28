@@ -1,0 +1,14 @@
+[
+  {"question": "P001 환자는 혈전용해제를 투여받았나요?", "patient_id": "P001", "expected_doc": "P001-DS", "expected_section": "입원 경과"},
+  {"question": "P001 환자의 클로피도그렐은 언제 중단하나요?", "patient_id": "P001", "expected_doc": "P001-OP", "expected_section": "입원 경과"},
+  {"question": "P001 환자의 퇴원 시 NIHSS 점수는?", "patient_id": "P001", "expected_doc": "P001-DS", "expected_section": "입원 경과"},
+  {"question": "P002 환자의 객담 배양 결과는?", "patient_id": "P002", "expected_doc": "P002-DS", "expected_section": "검사 소견"},
+  {"question": "P002 환자는 퇴원 시 어떤 항생제를 복용하나요?", "patient_id": "P002", "expected_doc": "P002-DS", "expected_section": "퇴원 약물"},
+  {"question": "P003 환자가 당뇨병케톤산증이 생긴 원인은?", "patient_id": "P003", "expected_doc": "P003-DS", "expected_section": "현병력"},
+  {"question": "P003 환자의 기저 인슐린 용량은?", "patient_id": "P003", "expected_doc": "P003-DS", "expected_section": "퇴원 약물"},
+  {"question": "P004 환자의 관상동맥조영술 결과는?", "patient_id": "P004", "expected_doc": "P004-DS", "expected_section": "검사 소견"},
+  {"question": "P004 환자의 티카그렐러 복용 기간은?", "patient_id": "P004", "expected_doc": "P004-DS", "expected_section": "퇴원 약물"},
+  {"question": "P005 환자는 어떤 수술을 받았나요?", "patient_id": "P005", "expected_doc": "P005-DS", "expected_section": "입원 경과"},
+  {"question": "P005 환자의 수술 후 활동 제한은?", "patient_id": "P005", "expected_doc": "P005-DS", "expected_section": "추적 관찰 계획"},
+  {"question": "흉부 X-ray에서 우하엽 경화가 보인 환자의 진단명은?", "patient_id": null, "expected_doc": "P002-DS", "expected_section": "검사 소견"}
+]
